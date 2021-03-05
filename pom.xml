@@ -59,6 +59,13 @@
             <version>2.4.1</version>
         </dependency>
 
+        <!--   fastdfs     -->
+        <dependency>
+            <groupId>com.luhuiguo</groupId>
+            <artifactId>fastdfs-spring-boot-starter</artifactId>
+            <version>0.2.0</version>
+        </dependency>
+
 
 
 
